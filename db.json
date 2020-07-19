@@ -1,0 +1,39 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Ramiro Fernando Gómez Cadena",
+            "email": "ramiro@example.com",
+            "edad": 25,
+            "departamento": "Sistemas"
+        },
+        {
+            "id": 2,
+            "nombre": "Claudia Samantha Guerrero Bonilla",
+            "email": "clauida@example.com",
+            "edad": 22,
+            "departamento": "Recursos Humanos"
+        },
+        {
+            "id": 3,
+            "nombre": "Andrea Cristina Cevallos Ortega",
+            "email": "andrea@example.com",
+            "edad": 30,
+            "departamento": "Financiero"
+        },
+        {
+            "id": 4,
+            "nombre": "Diego Esteban Montalvo Calderón",
+            "email": "diego@example.com",
+            "edad": 23,
+            "departamento": "Marketing"
+        },
+        {
+            "id": 5,
+            "nombre": "Alejandro Santiago Cruz Castillo",
+            "email": "alejandro@example.com",
+            "edad": 33,
+            "departamento": "Logística"
+        }
+    ]
+}
